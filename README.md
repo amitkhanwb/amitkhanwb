@@ -10,4 +10,4 @@ Building projects step by step 🚀
 - Creating beginner-friendly projects
 
 ### Goal
-Become a professional web developer in 2025
+Become a professional web developer in 2026
